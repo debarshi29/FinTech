@@ -1,0 +1,7 @@
+20250330-06:38:54: Session FIX.4.4:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250330-06:38:54: Created session: FIX.4.4:SERVER->CLIENT
+20250330-06:39:22: Accepting session FIX.4.4:SERVER->CLIENT from /127.0.0.1:54312
+20250330-06:39:22: Acceptor heartbeat set to 30 seconds
+20250330-06:39:22: Received logon
+20250330-06:39:22: Responding to Logon request
+20250330-06:40:44: Disconnecting: Socket exception (/127.0.0.1:54312): java.net.SocketException: Connection reset

@@ -1,0 +1,6 @@
+20250330-06:39:21: Session FIX.4.4:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250330-06:39:21: Created session: FIX.4.4:CLIENT->SERVER
+20250330-06:39:21: Configured socket addresses for session: [/127.0.0.1:5005]
+20250330-06:39:21: MINA session created: local=/127.0.0.1:54312, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=/127.0.0.1:5005
+20250330-06:39:22: Initiated logon request
+20250330-06:39:22: Received logon

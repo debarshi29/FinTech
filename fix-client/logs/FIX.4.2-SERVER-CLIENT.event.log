@@ -1,0 +1,65 @@
+20250329-20:23:49: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:23:49: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:42:18: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:42:18: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:43:29: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:43:29: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:45:19: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:45:19: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:45:37: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:45:37: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:46:26: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:46:26: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:46:52: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:46:52: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:50:51: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:50:51: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:51:03: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:51:03: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:54:04: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:54:04: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:54:32: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:54:32: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:54:50: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:54:50: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:55:42: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:55:42: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:56:10: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:56:10: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:56:34: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:56:34: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:58:21: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:58:21: Created session: FIX.4.2:SERVER->CLIENT
+20250329-20:58:47: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-20:58:47: Created session: FIX.4.2:SERVER->CLIENT
+20250329-21:01:43: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-21:01:43: Created session: FIX.4.2:SERVER->CLIENT
+20250329-21:02:07: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-21:02:07: Created session: FIX.4.2:SERVER->CLIENT
+20250329-21:08:13: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-21:08:13: Created session: FIX.4.2:SERVER->CLIENT
+20250329-21:08:48: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-21:08:48: Created session: FIX.4.2:SERVER->CLIENT
+20250329-21:12:56: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-21:12:56: Created session: FIX.4.2:SERVER->CLIENT
+20250329-21:16:34: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-21:16:34: Created session: FIX.4.2:SERVER->CLIENT
+20250329-21:18:32: Accepting session FIX.4.2:SERVER->CLIENT from /127.0.0.1:53178
+20250329-21:18:32: Acceptor heartbeat set to 30 seconds
+20250329-21:18:32: Received logon
+20250329-21:18:32: Responding to Logon request
+20250329-21:19:32: Received logout request
+20250329-21:19:32: Sent logout response
+20250329-21:19:32: Disconnecting: Received logout request
+20250329-21:31:56: Accepting session FIX.4.2:SERVER->CLIENT from /127.0.0.1:53304
+20250329-21:31:56: Acceptor heartbeat set to 30 seconds
+20250329-21:31:56: Received logon
+20250329-21:31:56: Responding to Logon request
+20250329-21:32:07: Disconnecting: Socket exception (/127.0.0.1:53304): java.net.SocketException: Connection reset
+20250329-21:41:44: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250329-21:41:44: Created session: FIX.4.2:SERVER->CLIENT
+20250329-21:42:06: Accepting session FIX.4.2:SERVER->CLIENT from /127.0.0.1:53378
+20250329-21:42:06: Acceptor heartbeat set to 30 seconds
+20250329-21:42:06: Received logon
+20250329-21:42:06: Responding to Logon request
+20250329-21:47:22: Disconnecting: Socket exception (/127.0.0.1:53378): java.net.SocketException: Connection reset
