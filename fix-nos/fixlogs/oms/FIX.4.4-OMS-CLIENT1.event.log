@@ -1,0 +1,46 @@
+20250331-19:49:19: Session FIX.4.4:OMS->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:49:19: Created session: FIX.4.4:OMS->CLIENT1
+20250331-19:49:39: Accepting session FIX.4.4:OMS->CLIENT1 from /127.0.0.1:56648
+20250331-19:49:39: Acceptor heartbeat set to 30 seconds
+20250331-19:49:39: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250331-19:49:39: Received logon
+20250331-19:49:39: Responding to Logon request
+20250331-19:50:43: Rejecting invalid message: quickfix.IncorrectTagValue: Value is incorrect (out of range) for this tag, field=54 field=54: 8=FIX.4.49=14435=D34=449=CLIENT152=20250331-19:50:43.19156=OMS11=ORD-174345064319121=138=10040=244=150.2554=b55=AAPL59=D60=20250401-01:20:43.19110=132
+20250331-19:50:43: Reject sent for message 4: Value is incorrect (out of range) for this tag, field=54
+20250331-19:52:40: Rejecting invalid message: quickfix.IncorrectTagValue: Value is incorrect (out of range) for this tag, field=54 field=54: 8=FIX.4.49=14135=D34=849=CLIENT152=20250331-19:52:40.74956=OMS11=ORD-174345076074921=138=50040=244=10054=s55=AAPL59=G60=20250401-01:22:40.74910=028
+20250331-19:52:40: Reject sent for message 8: Value is incorrect (out of range) for this tag, field=54
+20250331-19:52:59: Sent test request TEST
+20250331-19:55:14: Disconnecting: Socket exception (/127.0.0.1:56648): java.net.SocketException: Connection reset
+20250331-20:08:17: Session FIX.4.4:OMS->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-20:08:17: Created session: FIX.4.4:OMS->CLIENT1
+20250331-20:08:35: Accepting session FIX.4.4:OMS->CLIENT1 from /127.0.0.1:56753
+20250331-20:08:35: Acceptor heartbeat set to 30 seconds
+20250331-20:08:35: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250331-20:08:35: Received logon
+20250331-20:08:35: Responding to Logon request
+20250331-20:11:30: Rejecting invalid message: quickfix.IncorrectTagValue: Value is incorrect (out of range) for this tag, field=54 field=54: 8=FIX.4.49=14135=D34=749=CLIENT152=20250331-20:11:30.09856=OMS11=ORD-174345189009821=138=10040=244=12554=b55=MSFT59=D60=20250401-01:41:30.09810=020
+20250331-20:11:30: Reject sent for message 7: Value is incorrect (out of range) for this tag, field=54
+20250331-20:11:51: Sent test request TEST
+20250331-20:12:54: Rejecting invalid message: quickfix.IncorrectTagValue: Value is incorrect (out of range) for this tag, field=54 field=54: 8=FIX.4.49=13435=D34=1149=CLIENT152=20250331-20:12:54.90056=OMS11=ORD-174345197490021=138=5040=154=s55=AAPL59=I60=20250401-01:42:54.90010=201
+20250331-20:12:54: Reject sent for message 11: Value is incorrect (out of range) for this tag, field=54
+20250331-20:13:13: Rejecting invalid message: quickfix.IncorrectTagValue: Value is incorrect (out of range) for this tag, field=54 field=54: 8=FIX.4.49=14335=D34=1249=CLIENT152=20250331-20:13:13.88856=OMS11=ORD-174345199388821=138=7540=244=250.554=s55=TSLA59=G60=20250401-01:43:13.88810=172
+20250331-20:13:13: Reject sent for message 12: Value is incorrect (out of range) for this tag, field=54
+20250331-20:13:37: Sent test request TEST
+20250331-20:19:47: Disconnecting: Socket exception (/127.0.0.1:56753): java.net.SocketException: Connection reset
+20250412-18:56:49: Session FIX.4.4:OMS->CLIENT1 schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250412-18:56:49: Session state is not current; resetting FIX.4.4:OMS->CLIENT1
+20250412-18:56:49: Created session: FIX.4.4:OMS->CLIENT1
+20250412-18:57:24: Accepting session FIX.4.4:OMS->CLIENT1 from /127.0.0.1:9984
+20250412-18:57:24: Acceptor heartbeat set to 30 seconds
+20250412-18:57:24: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250412-18:57:24: Received logon
+20250412-18:57:24: Responding to Logon request
+20250412-18:58:13: Rejecting invalid message: quickfix.IncorrectTagValue: Value is incorrect (out of range) for this tag, field=54 field=54: 8=FIX.4.49=13435=D34=349=CLIENT152=20250412-18:58:12.99556=OMS11=ORD-174448429298921=138=10040=154=s55=msft59=D60=20250413-00:28:12.98910=152
+20250412-18:58:13: Reject sent for message 3: Value is incorrect (out of range) for this tag, field=54
+20250412-18:58:19: Disconnecting: Socket exception (/127.0.0.1:9984): java.net.SocketException: Connection reset
+20250412-18:58:42: Accepting session FIX.4.4:OMS->CLIENT1 from /127.0.0.1:9987
+20250412-18:58:42: Acceptor heartbeat set to 30 seconds
+20250412-18:58:42: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250412-18:58:42: Received logon
+20250412-18:58:42: Responding to Logon request
+20250412-19:03:14: Disconnecting: Socket exception (/127.0.0.1:9987): java.net.SocketException: Connection reset

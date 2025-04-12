@@ -1,0 +1,84 @@
+20250331-19:29:31: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:29:31: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:29:31: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:29:31: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:29:48: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:29:48: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:29:48: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:29:48: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:30:32: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:30:49: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:31:32: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:31:49: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:33:19: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:33:19: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:33:19: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:33:19: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:33:40: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:33:40: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:33:40: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:33:40: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:34:19: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:34:41: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:37:34: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:37:34: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:37:34: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:37:34: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:38:07: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:38:07: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:38:07: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:38:07: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:40:02: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:40:02: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:40:02: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:40:02: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:40:20: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:40:20: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:40:20: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:40:20: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:42:13: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:42:13: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:42:14: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:42:14: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:42:34: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:42:34: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:42:35: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:42:35: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:44:01: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:44:01: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:44:01: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:44:01: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:44:54: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:44:54: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:44:54: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:44:54: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:45:01: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused: getsockopt (Next retry in 60000 milliseconds)
+20250331-19:49:38: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-19:49:38: Created session: FIX.4.4:CLIENT1->OMS
+20250331-19:49:38: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-19:49:38: MINA session created: local=/127.0.0.1:56648, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9876
+20250331-19:49:39: Initiated logon request
+20250331-19:49:39: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250331-19:49:39: Received logon
+20250331-20:08:34: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250331-20:08:34: Created session: FIX.4.4:CLIENT1->OMS
+20250331-20:08:34: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250331-20:08:34: MINA session created: local=/127.0.0.1:56753, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9876
+20250331-20:08:35: Initiated logon request
+20250331-20:08:35: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250331-20:08:35: Received logon
+20250412-18:57:23: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250412-18:57:23: Session state is not current; resetting FIX.4.4:CLIENT1->OMS
+20250412-18:57:23: Created session: FIX.4.4:CLIENT1->OMS
+20250412-18:57:23: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250412-18:57:23: MINA session created: local=/127.0.0.1:9984, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9876
+20250412-18:57:24: Initiated logon request
+20250412-18:57:24: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250412-18:57:24: Received logon
+20250412-18:58:41: Session FIX.4.4:CLIENT1->OMS schedule is daily, 00:00:00-UTC - 23:59:59-UTC
+20250412-18:58:41: Created session: FIX.4.4:CLIENT1->OMS
+20250412-18:58:41: Configured socket addresses for session: [localhost/127.0.0.1:9876]
+20250412-18:58:41: MINA session created: local=/127.0.0.1:9987, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9876
+20250412-18:58:42: Initiated logon request
+20250412-18:58:42: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20250412-18:58:42: Received logon
